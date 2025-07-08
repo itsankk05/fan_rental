@@ -11,8 +11,11 @@
 
 ## Screenshots
 
-(./1.png)
+### Home Page
+![Home Page](./1.png)
 
-(./2.png)
+### Villas Page
+![Villas Page](./2.png)
 
-(./3.png)
+### Contact Page
+![Contact Page](./3.png)
