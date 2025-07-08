@@ -12,10 +12,10 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](./1.png)
+![Dark Mode](./1.png)
 
 ### Villas Page
-![Villas Page](./2.png)
+![Dark Mode](./2.png)
 
 ### Contact Page
-![Contact Page](./3.png)
+![Connect Wallet](./3.png)
